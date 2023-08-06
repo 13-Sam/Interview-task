@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-manrope: Manrope;
+  --font-li-ador-noirrit: "Li Ador Noirrit";
+  --font-li-niladri-rongtuli-unicode: "Li Niladri Rongtuli Unicode";
+  --font-li-sheikh-hasina-2: "Li Sheikh Hasina 2";
+  --font-malgun-gothic: "Malgun Gothic";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-25xl: 44px;
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --font-size-9xl: 28px;
+  --font-size-13xl: 32px;
+  --font-size-31xl: 50px;
+
+  /* Colors */
+  --color-white: #fff;
+  --hilsafish-text: #080422;
+  --color-darkslategray-100: #003b60;
+  --color-darkslategray-200: #012a4a;
+  --color-yellow: #f0e615;
+  --color-aliceblue: #f0f9ff;
+
+  /* border radiuses */
+  --br-7xs: 6px;
+  --br-9xs: 4px;
+  --br-6xl: 25px;
+  --br-98xl: 117px;
+}
